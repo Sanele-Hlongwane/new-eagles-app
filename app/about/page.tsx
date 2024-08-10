@@ -8,16 +8,14 @@ export default function AboutPage() {
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">Welcome to Eagles Ring</h2>
         <p className="text-lg mb-6">
-          Eagles Ring is a premier platform that connects entrepreneurs with investors to foster innovative business ideas and growth.
-          Our mission is to provide a seamless experience for both startups and investors, facilitating meaningful connections and successful investments.
+          Eagles Ring is a premier platform that connects entrepreneurs with investors to foster innovative business ideas and growth. Our mission is to provide a seamless experience for both startups and investors, facilitating meaningful connections and successful investments.
         </p>
 
         <div className="flex flex-col gap-8 md:flex-row">
           <div className="md:w-1/2 mb-6">
             <h3 className="text-xl font-semibold mb-4">Our Vision</h3>
             <p className="text-lg mb-4">
-              Our vision is to empower entrepreneurs and investors to reach their full potential by offering a robust and user-friendly platform.
-              We believe in driving innovation and supporting the next generation of business leaders.
+              Our vision is to empower entrepreneurs and investors to reach their full potential by offering a robust and user-friendly platform. We believe in driving innovation and supporting the next generation of business leaders.
             </p>
             <a
               className="text-primary font-semibold hover:underline"
@@ -30,8 +28,7 @@ export default function AboutPage() {
           <div className="md:w-1/2 mb-6">
             <h3 className="text-xl font-semibold mb-4">How It Works</h3>
             <p className="text-lg mb-4">
-              Eagles Ring simplifies the investment process by providing a comprehensive suite of tools for entrepreneurs to pitch their ideas and for investors to evaluate opportunities.
-              Our platform supports detailed profiles, secure transactions, and effective communication channels.
+              Eagles Ring simplifies the investment process by providing a comprehensive suite of tools for entrepreneurs to pitch their ideas and for investors to evaluate opportunities. Our platform supports detailed profiles, secure transactions, and effective communication channels.
             </p>
             <a
               className="text-primary font-semibold hover:underline"
@@ -66,7 +63,7 @@ export default function AboutPage() {
               Connect with John
             </a>
           </div>
-          
+
           {/* Team Member 2 */}
           <div className="border rounded-lg shadow-lg p-6">
             <h3 className="text-xl font-semibold mb-2">Jane Smith</h3>
@@ -83,7 +80,7 @@ export default function AboutPage() {
               Connect with Jane
             </a>
           </div>
-          
+
           {/* Team Member 3 */}
           <div className="border rounded-lg shadow-lg p-6">
             <h3 className="text-xl font-semibold mb-2">Emily Johnson</h3>
