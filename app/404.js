@@ -11,7 +11,9 @@ const NotFoundPage = () => {
         Oops! The page you&apos;re looking for doesn&apos;t exist. It might have been moved or deleted.
       </p>
       <p className="text-lg mb-6">
-        <span role="img" aria-label="confused">🤔</span>{" "}
+        <span role="img" aria-label="confused">
+          🤔
+        </span>{" "}
         <span className="text-gray-600 dark:text-gray-400">
           Sicela, uzame le page ebheke lapho!
         </span>
